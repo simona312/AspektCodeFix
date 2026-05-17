@@ -1,0 +1,14 @@
+C:\Users\levko\source\repos\AspektCodeFix\AspektCodeFix\bin\Debug\net8.0\AspektCodeFix.exe
+C:\Users\levko\source\repos\AspektCodeFix\AspektCodeFix\bin\Debug\net8.0\AspektCodeFix.deps.json
+C:\Users\levko\source\repos\AspektCodeFix\AspektCodeFix\bin\Debug\net8.0\AspektCodeFix.runtimeconfig.json
+C:\Users\levko\source\repos\AspektCodeFix\AspektCodeFix\bin\Debug\net8.0\AspektCodeFix.dll
+C:\Users\levko\source\repos\AspektCodeFix\AspektCodeFix\bin\Debug\net8.0\AspektCodeFix.pdb
+C:\Users\levko\source\repos\AspektCodeFix\AspektCodeFix\obj\Debug\net8.0\AspektCodeFix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\levko\source\repos\AspektCodeFix\AspektCodeFix\obj\Debug\net8.0\AspektCodeFix.AssemblyInfoInputs.cache
+C:\Users\levko\source\repos\AspektCodeFix\AspektCodeFix\obj\Debug\net8.0\AspektCodeFix.AssemblyInfo.cs
+C:\Users\levko\source\repos\AspektCodeFix\AspektCodeFix\obj\Debug\net8.0\AspektCodeFix.csproj.CoreCompileInputs.cache
+C:\Users\levko\source\repos\AspektCodeFix\AspektCodeFix\obj\Debug\net8.0\AspektCodeFix.dll
+C:\Users\levko\source\repos\AspektCodeFix\AspektCodeFix\obj\Debug\net8.0\refint\AspektCodeFix.dll
+C:\Users\levko\source\repos\AspektCodeFix\AspektCodeFix\obj\Debug\net8.0\AspektCodeFix.pdb
+C:\Users\levko\source\repos\AspektCodeFix\AspektCodeFix\obj\Debug\net8.0\AspektCodeFix.genruntimeconfig.cache
+C:\Users\levko\source\repos\AspektCodeFix\AspektCodeFix\obj\Debug\net8.0\ref\AspektCodeFix.dll
