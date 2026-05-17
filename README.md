@@ -18,16 +18,3 @@ A simple C# console application that searches through `.txt` files in a director
 2. Set the correct directory path in `Program.cs`
 3. Run the project
 
-## Example
-
-Before:
-
-```txt
-Hello
-```
-
-After:
-
-```txt
-HelloASPEKT
-```
