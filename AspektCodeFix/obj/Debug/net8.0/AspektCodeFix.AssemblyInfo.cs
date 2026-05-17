@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AspektCodeFix")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dc06c1d19a9940d93ecc58a9d02a21feb3889ed7")]
 [assembly: System.Reflection.AssemblyProductAttribute("AspektCodeFix")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AspektCodeFix")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
